@@ -1,1 +1,2 @@
 It is a test text.
+It is the next test.
